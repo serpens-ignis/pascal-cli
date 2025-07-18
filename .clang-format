@@ -1,0 +1,9 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+SpaceAfterCStyleCast: true
+Cpp11BracedListStyle: false
+BinPackArguments: false
+BinPackParameters: false
+AllowShortFunctionsOnASingleLine: false
+AlignAfterOpenBracket: BlockIndent
+AlignOperands: Align
